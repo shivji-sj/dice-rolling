@@ -5,4 +5,4 @@ Language : Python
 Date : 09/09/2021
 
 a
-Note  : Use main.py for executing this program and take care of all files and images. Without images this program will give error.a
+Note  : Use main.py for executing this program and take care of all files and images. Without images this program will give error.
